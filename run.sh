@@ -16,4 +16,4 @@ sed -i 's/20015/'$CHAT'/g' $DESTINATION/docker-compose.yml
 # run Odoo
 docker-compose -f $DESTINATION/docker-compose.yml up -d
 
-echo 'Started Odoo @ http://localhost:'$PORT' | Master Password: minhng.info | Live chat port: '$CHAT
+echo 'Started Odoo @ http://localhost:'$PORT' | Master Password: 9*E"+f9XBrB@UU | Live chat port: '$CHAT
